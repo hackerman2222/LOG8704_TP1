@@ -27,8 +27,8 @@ Pour tester le projet, ouvrez la scène suivante dans Unity :  /Scenes/Test Scen
 ---
 
 ## Instructions pour lancer le projet
-1. Clonez le dépôt :  
 ```bash
+1. Clonez le dépôt :  
 git clone https://github.com/hackerman2222/LOG8704_TP1
 
 2. Ouvrez Unity Hub et ajoutez le projet.
