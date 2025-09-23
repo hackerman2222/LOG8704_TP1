@@ -33,7 +33,7 @@ Instructions pour lancer le projet
 
 Clonez le dépôt :
 
-git clone https://github.com/username/nom-du-projet.git
+git clone https://github.com/hackerman2222/LOG8704_TP1
 
 
 Ouvrez Unity Hub et ajoutez le projet. (Pour build sur la version 6000.0.54f1, il faut cliquer convertir à l'ouverture du projet)
